@@ -1,5 +1,3 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajschofield&show_icons=true&locale=en" alt="ajschofield" /></p>
-
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Data Engineer Trainee</h3>
 
