@@ -1,0 +1,11 @@
+name: Purge Camo Cache
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  camo-purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kevincobain2000/action-camo-purge@v1
